@@ -37,6 +37,7 @@ ul {
   display: flex;
   column-gap: 20px;
   list-style-type: none;
+  margin: 8px 0 0;
 }
 
 .nav__link {
@@ -55,7 +56,7 @@ ul {
   line-height: 76px;
   font-weight: 500;
   max-width: 635px;
-  margin-top: 182px;
+  margin: 128px 0 0;
 }
 
 .header__description {
